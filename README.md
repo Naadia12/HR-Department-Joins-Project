@@ -1,6 +1,6 @@
 Description
 
-This project showcases SQL queries I created for managing and analyzing employee and department data. The queries are designed to retrieve, filter, and group information efficiently.
+This project showcases SQL queries I created for managing and analysing employee and department data. The queries are designed to retrieve, filter, and group information efficiently.
 
 Database Schema
 
